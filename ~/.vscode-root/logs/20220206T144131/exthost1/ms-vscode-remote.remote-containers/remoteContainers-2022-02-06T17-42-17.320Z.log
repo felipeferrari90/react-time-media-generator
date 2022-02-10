@@ -1,0 +1,19 @@
+[2022-02-06T20:26:14.849Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2022-02-06T20:26:14.849Z] Remote-Containers 0.217.1 in VS Code 1.64.0 (5554b12acf27056905806867f251c859323ff7e9).
+[2022-02-06T20:26:14.925Z] Stop (76 ms): Run: docker version --format {{.Server.APIVersion}}
+[2022-02-06T20:26:14.925Z] 1.41
+[2022-02-06T20:26:14.930Z] Start: Run: docker -v
+[2022-02-06T20:26:14.978Z] Stop (48 ms): Run: docker -v
+[2022-02-06T20:26:14.979Z] Start: Run: docker events --format {{json .}} --filter event=create --filter event=destroy --filter event=die --filter event=health-status --filter event=kill --filter event=pause --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=update --filter event=exec_create
+[2022-02-06T20:26:15.001Z] Start: Run: docker ps -q -a
+[2022-02-06T20:26:15.041Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2022-02-06T20:26:15.059Z] Stop (58 ms): Run: docker ps -q -a
+[2022-02-06T20:26:15.063Z] Start: Run: docker inspect --type container 540fb215e689 fb88679f601e 5117ccec57e5 8d89f214a19f 61b2a32a533e cc4dfcef1511 df267ed49b07 ec36470d3b00 b77a3c9218a8
+[2022-02-06T20:26:15.106Z] Stop (65 ms): Run: docker version --format {{.Server.APIVersion}}
+[2022-02-06T20:26:15.107Z] 1.41
+[2022-02-06T20:26:15.108Z] Start: Run: docker -v
+[2022-02-06T20:26:15.149Z] Stop (41 ms): Run: docker -v
+[2022-02-06T20:26:15.150Z] Start: Run: docker events --format {{json .}} --filter event=destroy --filter event=die --filter event=kill --filter event=create --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=prune
+[2022-02-06T20:26:15.166Z] Start: Run: docker volume ls -q
+[2022-02-06T20:26:15.224Z] Stop (58 ms): Run: docker volume ls -q
+[2022-02-06T20:26:16.269Z] Stop (1206 ms): Run: docker inspect --type container 540fb215e689 fb88679f601e 5117ccec57e5 8d89f214a19f 61b2a32a533e cc4dfcef1511 df267ed49b07 ec36470d3b00 b77a3c9218a8

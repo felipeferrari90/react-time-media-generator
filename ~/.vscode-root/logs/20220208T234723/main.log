@@ -1,0 +1,10 @@
+[2022-02-08 23:47:23.999] [main] [info] update#setState idle
+[2022-02-08 23:47:24.731] [main] [info] ExtensionHostStarterWorker created
+[2022-02-08 23:47:26.462] [main] [info] Starting extension host with pid 11240 (fork() took 18 ms).
+[2022-02-08 23:47:26.463] [main] [info] ExtensionHostStarterWorker.start() took 21 ms.
+[2022-02-08 23:47:27.061] [main] [warning] Switching to using in-memory credential store instead because Keytar failed to load: Unknown or unsupported transport “disabled” for address “disabled:”
+[2022-02-08 23:47:54.018] [main] [info] update#setState checking for updates
+[2022-02-08 23:47:54.020] [main] [info] update#setState idle
+[2022-02-09 00:47:54.118] [main] [info] update#setState checking for updates
+[2022-02-09 00:47:54.120] [main] [info] update#setState idle
+[2022-02-09 00:49:21.488] [main] [info] Extension host with pid 11240 exited with code: null, signal: SIGTERM.

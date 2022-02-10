@@ -1,0 +1,10 @@
+[2022-02-06T17:41:37.414Z] Validating found git in: git
+[2022-02-06T17:41:37.452Z] Using git 2.25.1 from git
+[2022-02-06T17:41:37.477Z] > git rev-parse --git-dir [1ms]
+[2022-02-06T17:41:37.482Z] Open repository: /home/felipe/Documentos/Projetos/kukac-app
+[2022-02-06T17:41:37.727Z] > git symbolic-ref --short HEAD [18ms]
+[2022-02-06T17:41:37.737Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [3ms]
+[2022-02-06T17:41:37.780Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-02-06T17:41:37.794Z] > git ls-files --stage -- /home/felipe/Documentos/Projetos/kukac-app/.dockerignore [15ms]
+[2022-02-06T17:41:37.797Z] > git remote --verbose [41ms]
+[2022-02-06T17:41:37.867Z] > git config --get commit.template [60ms]

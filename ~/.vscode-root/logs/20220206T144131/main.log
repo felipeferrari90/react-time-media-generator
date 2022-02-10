@@ -1,0 +1,26 @@
+[2022-02-06 14:41:31.724] [main] [info] update#setState idle
+[2022-02-06 14:41:31.901] [main] [info] ExtensionHostStarterWorker created
+[2022-02-06 14:41:33.639] [main] [info] Starting extension host with pid 18509 (fork() took 20 ms).
+[2022-02-06 14:41:33.639] [main] [info] ExtensionHostStarterWorker.start() took 25 ms.
+[2022-02-06 14:41:34.326] [main] [warning] Switching to using in-memory credential store instead because Keytar failed to load: Unknown or unsupported transport “disabled” for address “disabled:”
+[2022-02-06 14:42:01.727] [main] [info] update#setState checking for updates
+[2022-02-06 14:42:01.729] [main] [info] update#setState idle
+[2022-02-06 14:42:12.624] [main] [info] Extension host with pid 18509 exited with code: 0, signal: null.
+[2022-02-06 14:42:13.993] [main] [info] Starting extension host with pid 18669 (fork() took 10 ms).
+[2022-02-06 14:42:13.994] [main] [info] ExtensionHostStarterWorker.start() took 16 ms.
+[2022-02-06 15:42:01.828] [main] [info] update#setState checking for updates
+[2022-02-06 15:42:01.830] [main] [info] update#setState idle
+[2022-02-06 16:42:01.872] [main] [info] update#setState checking for updates
+[2022-02-06 16:42:01.874] [main] [info] update#setState idle
+[2022-02-06 17:42:01.972] [main] [info] update#setState checking for updates
+[2022-02-06 17:42:01.974] [main] [info] update#setState idle
+[2022-02-06 18:42:01.988] [main] [info] update#setState checking for updates
+[2022-02-06 18:42:01.990] [main] [info] update#setState idle
+[2022-02-06 21:46:12.291] [main] [info] update#setState checking for updates
+[2022-02-06 21:46:12.296] [main] [info] update#setState idle
+[2022-02-06 22:46:14.026] [main] [info] update#setState checking for updates
+[2022-02-06 22:46:14.028] [main] [info] update#setState idle
+[2022-02-06 23:46:14.126] [main] [info] update#setState checking for updates
+[2022-02-06 23:46:14.127] [main] [info] update#setState idle
+[2022-02-07 00:46:14.226] [main] [info] update#setState checking for updates
+[2022-02-07 00:46:14.228] [main] [info] update#setState idle

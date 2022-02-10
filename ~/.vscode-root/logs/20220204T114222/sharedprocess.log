@@ -1,0 +1,10 @@
+[2022-02-04 11:42:31.202] [sharedprocess] [info] Starting worker process with pid 11374 (type: fileWatcher, window: 1).
+[2022-02-04 11:42:33.259] [sharedprocess] [info] Getting Manifest... angular.ng-template
+[2022-02-04 11:42:33.612] [sharedprocess] [info] Installing extension: angular.ng-template
+[2022-02-04 11:42:42.082] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/felipe/Documentos/react/media-time-calculator/~/.vscode-root/CachedExtensionVSIXs/angular.ng-template-13.2.2
+[2022-02-04 11:42:44.898] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.5cd9db01-700a-459a-8c02-5d9345439bf2: angular.ng-template
+[2022-02-04 11:42:45.072] [sharedprocess] [info] Renamed to /root/.vscode/extensions/angular.ng-template-13.2.2
+[2022-02-04 11:42:45.077] [sharedprocess] [info] Extracting completed. angular.ng-template
+[2022-02-04 11:42:45.202] [sharedprocess] [info] Extension installed successfully: angular.ng-template
+[2022-02-04 14:05:00.576] [sharedprocess] [info] Worker process with pid 11374 terminated normally (type: fileWatcher, window: 1).
+[2022-02-04 14:05:01.927] [sharedprocess] [info] Starting worker process with pid 21981 (type: fileWatcher, window: 1).

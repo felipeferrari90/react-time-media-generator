@@ -1,0 +1,23 @@
+.form-input{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.form-input > label {
+    padding-top: 12px;
+}
+
+.form-input > input {
+    background: rgba(192,192,192,0.6);
+    border-radius: 15px;
+    padding: 8px;
+    border-width: 0;
+}
+
+.form-input > input::placeholder {
+    background: rgba(255,255,255,0.6);
+    border-radius: 15px;
+}
+
