@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-time-media-generator/static/css/main.e8924f80.css",
+    "main.js": "/react-time-media-generator/static/js/main.c050a091.js",
+    "static/js/787.5238cbd4.chunk.js": "/react-time-media-generator/static/js/787.5238cbd4.chunk.js",
+    "static/media/SourceSansPro-Regular.woff": "/react-time-media-generator/static/media/SourceSansPro-Regular.e85d8d9c12074e064fa5.woff",
+    "static/media/SourceSansPro-Bold.woff": "/react-time-media-generator/static/media/SourceSansPro-Bold.c43eb42a9b3de83c88f7.woff",
+    "static/media/SourceSansPro-Light.woff": "/react-time-media-generator/static/media/SourceSansPro-Light.5a5436839d4709599968.woff",
+    "static/media/SourceSansPro-Regular.woff2": "/react-time-media-generator/static/media/SourceSansPro-Regular.7130bfd617067e53f080.woff2",
+    "static/media/SourceSansPro-Bold.woff2": "/react-time-media-generator/static/media/SourceSansPro-Bold.e94498b5ac906f5c591a.woff2",
+    "static/media/SourceSansPro-Light.woff2": "/react-time-media-generator/static/media/SourceSansPro-Light.e6d53210bd8035c73f6e.woff2",
+    "index.html": "/react-time-media-generator/index.html",
+    "main.e8924f80.css.map": "/react-time-media-generator/static/css/main.e8924f80.css.map",
+    "main.c050a091.js.map": "/react-time-media-generator/static/js/main.c050a091.js.map",
+    "787.5238cbd4.chunk.js.map": "/react-time-media-generator/static/js/787.5238cbd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8924f80.css",
+    "static/js/main.c050a091.js"
+  ]
+}
